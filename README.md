@@ -3,8 +3,8 @@
 
 ## catlog 
 ## requirements
-‘’‘ Java
-'<pip install -r requirements>'
+‘’‘ 
+iiii
 ‘’‘
 
 
