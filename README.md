@@ -3,8 +3,8 @@
 
 ## catlog 
 ## requirements
-‘’‘
+···
 pip install -r requirements
-’‘’
+
 
 
