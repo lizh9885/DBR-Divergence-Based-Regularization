@@ -2,9 +2,10 @@
 
 
 ## catlog 
+
 ## requirements
 ```
-pip ins
+pip install -r requirements.txt
 ```
 
 
