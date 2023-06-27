@@ -3,9 +3,8 @@
 
 ## catlog 
 ## requirements
-‘’‘ 
-iiii
-‘’‘
-
+```
+pip ins
+```
 
 
